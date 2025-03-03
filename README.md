@@ -1,1 +1,3 @@
-# competence-catalyst-clone
+# Empty Project
+
+A blank project starter
